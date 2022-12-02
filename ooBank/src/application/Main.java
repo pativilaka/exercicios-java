@@ -21,7 +21,7 @@ public class Main {
 		sc.nextLine();
 		String holder = sc.nextLine();
 		
-		System.out.print("Is there na initial deposit: ");
+		System.out.print("Is there an initial deposit: ");
 		char response = sc.next().charAt(0);
 		
 		if (response == 'y' || response == 'Y'){
